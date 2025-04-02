@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/abinayagoudjandhyala/Customer-Segmentation-KMeans
+git clone https://github.com/abinayagoudjandhyala/Customer-Segmentation-KMeans.git
 cd CustomerSegmentation
 ```
 2. Run the notebook
